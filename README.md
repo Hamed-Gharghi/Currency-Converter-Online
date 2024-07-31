@@ -18,7 +18,7 @@ Currency Converter Online is a user-friendly desktop application built with PyQt
 
 ## Screenshots
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot.png)
 
 ## Requirements
 
