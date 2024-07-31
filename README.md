@@ -1,4 +1,4 @@
-# Currency Converter Application
+# Currency Converter Online
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![PyQt5 Version](https://img.shields.io/badge/pyqt5-5.15.11-blue)
@@ -7,7 +7,7 @@
 
 ## Description
 
-This is a simple currency converter application built using PyQt5. The application allows users to convert amounts between different currencies using real-time exchange rates fetched from the Alpha Vantage API. It features a user-friendly interface where you can select currencies from drop-down lists, input an amount, and see the converted value.
+Currency Converter Online is a user-friendly desktop application built with PyQt5 that allows users to convert amounts between different currencies using real-time exchange rates provided by the Alpha Vantage API. It offers a simple interface with currency selection and conversion features.
 
 ## Features
 
@@ -41,13 +41,13 @@ This project uses the Alpha Vantage API for currency conversion. You will need a
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/yourusername/Currency-Converter-Online.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```sh
-   cd currency-converter
+   cd Currency-Converter-Online
    ```
 
 3. **Install the required libraries:**
@@ -89,3 +89,16 @@ Hamed Gharghi
 ## Contact
 
 For any questions or feedback, please contact me at [Hamedgharghi1@gmail.com](mailto:Hamedgharghi1@gmail.com).
+
+## Tags
+
+- `Python`
+- `PyQt5`
+- `Currency Converter`
+- `GUI Application`
+- `Alpha Vantage API`
+- `Exchange Rates`
+- `Real-time Conversion`
+- `Financial Software`
+- `Open Source`
+- `MIT License`
